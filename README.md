@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+##  Languages & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
@@ -23,8 +23,8 @@
 🔹 [**CryptoPriceAnalysis**](https://github.com/ENG-Muhammed-Allito/CryptoPriceAnalysis)  
 _Predicting Cryptocurrency Price Dynamics: A Comparative Analysis of Machine Learning Techniques_  
 
-🔹 Flutter Mobile App (Coming Soon 🚧)  
-🔹 Data Structures with Python (Learning Journey 📚)  
+🔹 Flutter Mobile App (Coming Soon )  
+🔹 Data Structures with Python (Learning Journey )  
 
 ---
 
