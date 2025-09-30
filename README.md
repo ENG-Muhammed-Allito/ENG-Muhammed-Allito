@@ -1,10 +1,10 @@
-# 👨‍💻 Eng. Muhammed Allito  
+#  Eng. Muhammed Allito  
 
 **Computer Engineer | AI & Flutter Developer | Tech Enthusiast**  
 
-🚀 Passionate about **Machine Learning, Data Analysis, and Mobile App Development**  
-📌 Sharing my journey in **Tech & Growth**  
-📫 Reach me: **engmuhammedallito@gmail.com**  
+ Passionate about **Machine Learning, Data Analysis, and Mobile App Development**  
+ Sharing my journey in **Tech & Growth**  
+ Reach me: **engmuhammedallito@gmail.com**  
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 🔹 [**CryptoPriceAnalysis**](https://github.com/ENG-Muhammed-Allito/CryptoPriceAnalysis)  
 _Predicting Cryptocurrency Price Dynamics: A Comparative Analysis of Machine Learning Techniques_  
 
@@ -28,12 +28,12 @@ _Predicting Cryptocurrency Price Dynamics: A Comparative Analysis of Machine Lea
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 ![Allito's GitHub stats](https://github-readme-stats.vercel.app/api?username=ENG-Muhammed-Allito&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-Muhammed-Allito&layout=compact&theme=radical)  
 
 ---
 
-## 🌍 Connect with Me  
+##  Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-allito)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:engmuhammedallito@gmail.com)  
